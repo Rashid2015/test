@@ -1,4 +1,0 @@
-CEITEC - Brno
-====
-
-Hello Rashid
