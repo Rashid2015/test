@@ -1,4 +1,4 @@
-test
+CEITEC - Brno
 ====
 
 Hello Rashid
